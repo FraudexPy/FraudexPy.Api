@@ -1,0 +1,21 @@
+## Build and Output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.DotSettings.user
+
+## OS Files
+.DS_Store
+Thumbs.db
